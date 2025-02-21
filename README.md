@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm James Burton 👋
 
-<!--
-**Ging9999/Ging9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Computer Science student passionate about Cyber security and always learning new technologies. Here's a bit about me and what you'll find on my GitHub:
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Java, Python, C, C#
+- **Tools**: Git, Visual studio, Jetbrains technology
+
+## 🌱 Currently Learning
+
+I'm always exploring new topics. Right now, I’m diving into:
+
+- Java and Python
+- Blockchain technology
+- Cybersecurity(comptia+)
+
+## 💬 Let's Connect
+- [Personal Website](https://jamesburton.xyz)
+
+---
+
+Thanks for visiting my GitHub! Let's build something amazing together. Happy coding! 👨‍💻👩‍💻
